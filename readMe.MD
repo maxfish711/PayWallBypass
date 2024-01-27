@@ -1,0 +1,1 @@
+bypass paywalls, input key word, delete key word. Easy as 1 2

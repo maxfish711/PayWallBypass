@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Paywall Bypass",
+    "description": "keep wallet happy",
+    "version": "1.0",
+    "action": {
+      "default_popup": "interface.html",
+      "default_icon": "DollarBill.png"
+    },
+    // "background": {
+    //     "service_worker": "deleteWord.js"
+    //   },
+    "permissions":[
+        "activeTab",
+        "scripting",
+        "activeTab",
+        "tabs"
+    ]
+  }
